@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @favreje
-- 👀 I’m interested in enhancing my learning re: Python and SQL
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate -- too early in my development for collaboration just yet. 
+- 👀 I’m interested in enhancing my learning re: Linux, Bash Scripting, C, Golang, Python and SQL
+- 🌱 I’m currently learning C
+- 💞️ I’m not quite ready to collaborate -- too early in my development.
 - 📫 reach me at favreje@gmail.com
 
 <!---
