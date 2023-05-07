@@ -40,7 +40,7 @@ This is indented (used for code blocks)
 * Use **two stars** for bold (strong).
 * Use ***three stars*** for bold and italic (strong em).
 * This is `monospace` (pre, preformatted, code.)
-* Use dollar sign for in-line math $/sqrt{3x-1}+(1+x)^2$
+* Use dollar sign for in-line math $\sqrt{3x-1}+(1+x)^2$
 
 
 ### Links and Hyperlinks
