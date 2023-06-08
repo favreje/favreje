@@ -9,5 +9,32 @@ favreje/favreje is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+# General Notes for JavaScript Tutorials #
+
+## Style Guide ## 
+
+### Naming Conventions ###
+- Use camalCase for variables
+
+
+
+## Variables ##
+- Use camelCase for variables
+- JavaScript is a dynamically typed language (same as Python)
+- There is implicit conversion of datatypes
+```JavaScript
+const variableNum1 = 10;
+const variableNum2 = 20;
+const variableString = " million dollars";
+
+formattedOutput = (variableNum1 + variableNum2) + variableString;
+
+> console.log(formattedOutput)
+    30 million dollars
+```
+
+
+
+
 
 
